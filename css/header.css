@@ -58,4 +58,14 @@ nav{
   justify-content: center;
 
 }
+  
+.navbar{
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar_1{
+  list-style-type: none;
+  display: none;
+}
 

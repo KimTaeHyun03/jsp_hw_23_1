@@ -56,24 +56,24 @@
 
     
     <div class="navigation">
-        <ul>
+        <ul class="navbar">
         <li>
             <nav>eclass</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>수강과목</li>
                 <li>쪽지</li>
             </ul>
         </li>
         <li>
             <nav>ocw</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>강좌현황</li>
                 <li>관심강좌</li>
             </ul>
         </li>
         <li>
             <nav>커뮤니티</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>공지사항</li>
                 <li>FAQ</li>
                 <li>갤러리</li>
@@ -83,7 +83,7 @@
         </li>
         <li>
             <nav>학습지원</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>연성러닝스타트/PEER 튜터링</li>
                 <li>글쓰기클리닉</li>
                 <li>학습수기 공모전/러닝포트폴리오</li>
@@ -94,7 +94,7 @@
         </li>
         <li>
             <nav>교수지원</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>SELF 강의모니터링</li>
                 <li>특강 및 워크숍</li>
                 <li>교수학습공동체</li>
@@ -104,7 +104,7 @@
         </li>
         <li>
             <nav>이러닝지원</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>온라인강의 콘텐츠 제작지원</li>
                 <li>시설예약</li>
                 <li>나의신청내역 조회</li>
@@ -112,7 +112,7 @@
         </li>
         <li>
             <nav>센터소개</nav>
-            <ul>
+            <ul class="navbar_1">
                 <li>인사말</li>
                 <li>오시는길</li>
             </ul>
@@ -120,5 +120,20 @@
         </ul>
 
     </div>
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script>
+  $(document).ready(function() {
+    $('.navbar > li').mouseenter(function() {
+      $('.navbar_1').css('display', 'block');
+    }).mouseleave(function() {
+      $('.navbar_1').css('display', 'none');
+    });
+  });
+      </script>
+
 </body>
 </html>
