@@ -47,10 +47,22 @@
     </span>
 </div>
 
+<div class="program_1">
+    <span id="program_2">
+        <p id="program_3">06월 월별 프로그램현황</p>
+        <span>
+            <p>교수지원</p>
+            <p>■[혁신] 챗 GPT 시작부터 활용까지</p>
+        </span>
+    </span>
 </div>
 
 
 
 
+
+
+
+</div>
 </body>
 </html>
