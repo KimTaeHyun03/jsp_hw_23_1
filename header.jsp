@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="css/header.css">
 </head>
 <body>
-    <div class="header">
-        <div class="logo">
+    <div class="header1">
+        <div class="logo1">
             <img id="logo" src="img/logo.png" alt="연성대로고">
         </div>
         <div class="user">
@@ -29,14 +29,14 @@
         </div>
 
         <div>
-            <ul class="member">
+            <ul class="member1">
                 <li><a id="list">로그아웃</a></li>
                 <li><a id="list">개인정보수정</a></li>
                 <li><a id="list">Webex 비밀번호 변경</a></li>
             </ul>
         </div>
-        <div class="class">
-            <select id="class">
+        <div class="class1">
+            <select id="class1">
                 <option value="apple">과목을 선택하세요</option>
                 <option value="banana" disabled>과목1</option>
                 <option value="orange" selected>과목2</option>
@@ -49,25 +49,25 @@
     </div>
 
     
-    <div class="navigation">
-        <ul class="navbar">
+    <div class="navigation1">
+        <ul class="navbar1">
         <li>
             <nav>eclass</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>수강과목</li>
                 <li>쪽지</li>
             </ul>
         </li>
         <li>
             <nav>ocw</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>강좌현황</li>
                 <li>관심강좌</li>
             </ul>
         </li>
         <li>
             <nav>커뮤니티</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>공지사항</li>
                 <li>FAQ</li>
                 <li>갤러리</li>
@@ -77,7 +77,7 @@
         </li>
         <li>
             <nav>학습지원</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>연성러닝스타트/PEER 튜터링</li>
                 <li>글쓰기클리닉</li>
                 <li>학습수기 공모전/러닝포트폴리오</li>
@@ -88,7 +88,7 @@
         </li>
         <li>
             <nav>교수지원</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>SELF 강의모니터링</li>
                 <li>특강 및 워크숍</li>
                 <li>교수학습공동체</li>
@@ -98,7 +98,7 @@
         </li>
         <li>
             <nav>이러닝지원</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>온라인강의 콘텐츠 제작지원</li>
                 <li>시설예약</li>
                 <li>나의신청내역 조회</li>
@@ -106,7 +106,7 @@
         </li>
         <li>
             <nav>센터소개</nav>
-            <ul class="navbar_1">
+            <ul class="navbar_11">
                 <li>인사말</li>
                 <li>오시는길</li>
             </ul>
@@ -121,10 +121,10 @@
     <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
     <script>
   $(document).ready(function() {
-    $('.navbar > li').mouseenter(function() {
-      $('.navbar_1').css('display', 'block');
+    $('.navbar1 > li').mouseenter(function() {
+      $('.navbar_11').css('display', 'block');
     }).mouseleave(function() {
-      $('.navbar_1').css('display', 'none');
+      $('.navbar_11').css('display', 'none');
     });
   });
       </script>
