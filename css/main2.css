@@ -2,6 +2,7 @@
 .main2{
 float: left;
 margin-left: 200px;
+margin-top: 30px;
 }
 
 
@@ -86,7 +87,39 @@ margin-left: 200px;
     border:solid 1px white;
 }
 
-#program_3{
-    font-size: 10px;
+
+
+
+.program_1{
+    width: 160px;
+    text-align: center;
+    margin-left: 50px;
+    background-color: #b4cd0c;
+    padding: 5px;
+}
+.program_2{
+
+
 }
 
+#program_3{
+    font-size: 13.5px;
+    padding-top: 10px;
+}
+
+#program_4{
+    font-size: 12px;
+}
+
+#program_5{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+#program_6{
+
+    background-color: white;
+    padding:5px;
+    margin: 10px;
+    height: 75px;
+}

@@ -20,6 +20,15 @@
         <img src="img/listImg2.png" alt="" width="160" height="80">
     </li>
 </ul>
+<ul class="img_3">
+    <span id="YSU">YSU CTL NEWS</span>
+    <li>
+        <span>2021혁신[YSU 온택트 자...</span>
+    </li>
+    <li>
+        <span>2021혁신[러닝포트폴리...</span>
+    </li>
+</ul>
 <ul class="img2">
     <li>
         <img src="img/listImg3.png" alt="" width="160" height="80">
@@ -28,7 +37,15 @@
         <img src="img/listImg4.png" alt="" width="160" height="80">
     </li>
 </ul>
-
+<ul class="img_3">
+    <span id="YSU">YSU CTL NEWS</span>
+    <li>
+        <span>2021혁신[학습수기]공...</span>
+    </li>
+    <li>
+        <span>2021혁신[학습 Cheating]...</span>
+    </li>
+</ul>
 <div id="eclass_1">
     <span id="eclass_2">
         <strong id="eclass_3">e-Class </strong>
@@ -47,14 +64,18 @@
     </span>
 </div>
 
-<div class="program_1">
-    <span id="program_2">
-        <p id="program_3">06월 월별 프로그램현황</p>
-        <span>
-            <p>교수지원</p>
-            <p>■[혁신] 챗 GPT 시작부터 활용까지</p>
-        </span>
-    </span>
+<div class="program_1" style="display: block;">
+    <div id="program_2" style="display: block;">
+        <strong id="program_3">06월 월별 프로그램현황</strong>
+        <div id="program_6" style="display: block;">
+            <strong id="program_4">교수지원</strong>
+            <p id="program_5">■[혁신] 챗 GPT 시작부터 활용까지</p>
+        </div>
+        <div id="program_6" style="display: block;">
+            <strong id="program_4">학습지원</strong>
+
+        </div>
+    </div>
 </div>
 
 
