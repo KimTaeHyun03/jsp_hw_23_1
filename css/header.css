@@ -55,17 +55,26 @@ li{
 
 nav{
   display: inline-block;
+  text-align: center;
   justify-content: center;
 
 }
   
 .navbar{
   list-style-type: none;
+  text-align: center;
+  padding-left: 0;
   display: flex;
 }
 
 .navbar_1{
-  list-style-type: none;
+  list-style: none;
   display: none;
+  padding-left: 0;
+  text-align: center;
 }
 
+.navbar>li{
+  padding-left: 20px;
+  padding-right: 20px;
+}
