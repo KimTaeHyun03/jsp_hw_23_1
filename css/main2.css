@@ -1,0 +1,87 @@
+
+.main2{
+float: left;
+margin-left: 200px;
+}
+
+
+.img{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.img2{
+    list-style-type:none;
+    margin-top: 24px;
+    padding-left: 0;
+}
+
+
+.img>li{
+    padding-bottom: 10px;
+
+}
+
+.img2>li{
+    padding-bottom: 10px;
+
+}
+
+#eclass_1{
+    margin-left: 35px;
+}
+#eclass_2{
+    width: 150px;
+    background-color: #1d82cd;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#eclass_3{
+
+    margin: 0;
+    color: white;
+}
+
+#eclass_4{
+    margin: 0;
+    color: white;
+    padding-top: 0;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border:solid 1px white;
+}
+
+
+
+
+#ppt_1{
+    margin-left: 35px;
+}
+#ppt_2{
+    width: 150px;
+    background-color: #ec4399;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#ppt_3{
+
+    margin: 0;
+    color: white;
+}
+
+#ppt_4{
+    margin: 0;
+    color: white;
+    padding-top: 0;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border:solid 1px white;
+}

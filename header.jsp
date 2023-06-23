@@ -60,7 +60,7 @@
         </li>
         <li>
             <nav>ocw</nav>
-            <ul class="navbar_11">
+            <ul class="navbar_11">  
                 <li>강좌현황</li>
                 <li>관심강좌</li>
             </ul>
