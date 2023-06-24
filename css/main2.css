@@ -3,6 +3,24 @@
 float: left;
 margin-left: 200px;
 margin-top: 30px;
+width: 1130px;
+margin-right: 206px;
+}
+
+
+.img>li>strong{
+    font-size: 13px;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.img2>li>strong{
+    font-size: 13px;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -20,17 +38,18 @@ margin-top: 30px;
 
 .img>li{
     padding-bottom: 10px;
-
 }
 
 .img2>li{
     padding-bottom: 10px;
-
 }
 
 #eclass_1{
-    margin-left: 35px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
 }
+
 #eclass_2{
     width: 150px;
     background-color: #1d82cd;
@@ -60,7 +79,9 @@ margin-top: 30px;
 
 
 #ppt_1{
-    margin-left: 35px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 15px;
 }
 #ppt_2{
     width: 150px;
@@ -92,15 +113,14 @@ margin-top: 30px;
 
 .program_1{
     width: 160px;
+    height: 200px;
     text-align: center;
-    margin-left: 50px;
+    margin-left: 15px;
     background-color: #b4cd0c;
+    margin-top: 20px;
     padding: 5px;
 }
-.program_2{
 
-
-}
 
 #program_3{
     font-size: 13.5px;
@@ -121,5 +141,51 @@ margin-top: 30px;
     background-color: white;
     padding:5px;
     margin: 10px;
+    margin-top: 0;
     height: 75px;
 }
+
+
+
+.info_1{
+    list-style: none;
+    padding:0;
+    margin-left: 20px;
+    display: flex;
+    justify-content : center;
+}
+
+.info_2{
+    height: 32px;
+    border:solid 1px rgb(148, 148, 148);
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+
+
+.listct_2{
+    list-style: square;
+
+}
+
+.listct_3>a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
