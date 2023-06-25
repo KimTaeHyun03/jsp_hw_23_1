@@ -34,6 +34,9 @@
         font-size: 12px;
         list-style: none;
     }
+    .copy>li>address{
+        margin-bottom: 0;
+    }
 
 </style>
 </head>

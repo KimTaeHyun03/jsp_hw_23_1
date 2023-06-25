@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/main2.css">
 </head>
 <body>
-
+<div class="center">
 <div class="main2">
 
 <ul class="img">
@@ -96,7 +96,7 @@
 
 
 </div>
-
+</div>
 
 </body>
 </html>

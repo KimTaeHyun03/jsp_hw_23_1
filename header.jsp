@@ -48,7 +48,7 @@
 
     </div>
 
-    
+<div class="center">
     <div class="navigation1">
         <ul class="navbar1">
         <li>
@@ -114,7 +114,7 @@
         </ul>
 
     </div>
-
+</div>
 
 
 

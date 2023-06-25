@@ -2,7 +2,9 @@ div{
   display: flex;
   justify-content: center;
 }
-
+.center{
+  width: 100%;
+}
 #logo1{
   width: 300px;
   height: 45px;
@@ -51,6 +53,7 @@ li{
 .navigation1{
   display:block;
   background-color: #31667d;
+  width: 100%;
 }
 
 nav{
