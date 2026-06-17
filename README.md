@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
 
 ## 🖥 실행 화면
-![실행화면](연성대학교_e-class_실행화면.gif)
+![alt text](ysu_e-class-screenshot.gif)
 ## 기술 스택
 |구분|기술/버전|
 |-|-|
