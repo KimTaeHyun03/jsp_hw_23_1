@@ -6,12 +6,11 @@
 
 ![JSP](https://img.shields.io/badge/JSP-Scriptlet-blue)
 ![Tomcat](https://img.shields.io/badge/Tomcat-9.0-yellow)
-![jQuery](https://img.shields.io/badge/jQuery-3.7.0-0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-7952B3)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
+
+
 
 ## 🖥 실행 화면
-![alt text](ysu_e-class-screenshot.gif)
+![alt text](ysu_e-class_screenshot.gif)
 ## 기술 스택
 |구분|기술/버전|
 |-|-|
